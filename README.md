@@ -5,11 +5,11 @@ I am an ICT student at Fontys University of Applied Sciences with hands-on exper
 
 ## 🚀 Projects
 
-✈️ **SkyTrack**  
+✈️ **SkyTrack (In progress)** 
 Full-stack flight management system that allows passengers to search, book and track their flights while receiving real-time flight updates on a single platform.  
 Tech: Java, Spring Boot, React, PostgreSQL
 
-🚚 **Product Management System (Team project)**  
+🚚 **Product Management System (Team project - in progress)**  
 Full-stack system developed for BAS World that allows employees to manage cross-selling products and their availability across different depots.  
 Tech: Java, Spring Boot, React, PostgreSQL
 
