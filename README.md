@@ -33,34 +33,15 @@ Tech: C#, ASP.NET, Razor Pages, SQL
 
 ## 💻 Tech Stack
 
-**Languages**
-- Java
-- C#
-- Python
-- SQL
-- JavaScript
+**Languages** - Java, C#, Python, SQL, JavaScript
 
-**Backend**
-- Spring Boot
-- ASP.NET
+**Backend** - Spring Boot, ASP.NET
 
-**Frontend**
-- HTML
-- CSS
-- React
+**Frontend** - HTML, CSS, React
 
-**Databases**
-- PostgreSQL
-- MySQL
-- MS SQL Server
+**Databases** - PostgreSQL, MySQL, MS SQL Server
 
-**AI / Machine Learning**
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- DistilBERT
-- YOLOv8
+**AI / Machine Learning** - Scikit-learn, Pandas, NumPy, Matplotlib, DistilBERT, YOLOv8
 
 ---
 
