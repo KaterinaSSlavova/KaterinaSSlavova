@@ -17,7 +17,7 @@ Tech: Java, Spring Boot, React, PostgreSQL
 AI system that analyzes disaster-related messages and predicts humanitarian needs such as basic supplies, medical help, rescue, shelter and people status. The task is modeled as a multi-label text classification problem.  
 Tech: Python, DistilBERT (fine-tuning), Scikit-learn, TF-IDF, Pandas, NumPy
 
-📊 **IBCS Title Compliance Detection (Team Project)**  
+📊 **IBCS Title Compliance Detection**  
 AI application that analyzes dashboard and visualization images to determine whether their titles comply with IBCS Rule B (Standard Titles for Identification). The system provides feedback and suggestions to improve titles based on the Who–What–When structure defined by IBCS guidelines.  
 Tech: Python, YOLOv8, OCR, LLM, Scikit-learn, Pandas, NumPy
 
